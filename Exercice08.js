@@ -1,7 +1,7 @@
 // Interplanetary Library
 // Write a function that receive a string that contain a fullname and return a string with all names, except for the last one, abbreviated and the last name in uppercase before the abbreviations separated by comma
 
-const name = 'Isaac Larrubia Ferreira Pontes'
+const name = 'Firstname Middlename Lastname'
 const nameArr = name.split(' ')
 const finalName = []
 
